@@ -28,12 +28,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://user-images.githubusercontent.com/106669781/231405487-cc4dc2a0-e2e8-452a-a4e5-d708d2f00ded.png)
+![image](https://user-images.githubusercontent.com/106669781/231405530-13aeed12-70cb-40d1-8441-7a45da074788.png)
+
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/JoyObaidu/Notification-page)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -60,7 +62,7 @@ Javscript loops
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@JoyObaidu](https://www.frontendmentor.io/profile/JoyObaidu)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 
